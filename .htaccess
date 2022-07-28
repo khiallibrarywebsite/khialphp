@@ -1,0 +1,2 @@
+ErrorDocument 404 https://khiallibrary.com/404.php/
+ErrorDocument 401 https://khiallibrary.com/401.php/
